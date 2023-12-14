@@ -1,0 +1,17 @@
+{
+  "DDC": "#ids",
+  "DDC_IS_ACTIVE": "True",
+  "FAST": "#fast",
+  "FAST_IS_ACTIVE": "False",
+  "GENRE": "#lc_genre",
+  "GENRE_DDC_IS_ACTIVE": "False",
+  "GENRE_EXACT_MATCH": "True",
+  "GENRE_IS_INACTIVE": "True",
+  "GENRE_LCC_IS_ACTIVE": "False",
+  "GENRE_LCC_MATCH_LENGTH": "2",
+  "LCC": "#lcc",
+  "LCC_IS_ACTIVE": "True",
+  "OCLC_OWI": "#oclc_owi",
+  "OCLC_OWI_IDENTIFIER": "True",
+  "OCLC_OWI_IS_ACTIVE": "False"
+}

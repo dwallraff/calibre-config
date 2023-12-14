@@ -1,0 +1,1119 @@
+{
+  "action-layout-searchbar": [],
+  "action-layout-toolbar": [
+    "Add Books",
+    "Edit Metadata",
+    "Convert Books",
+    "Polish Books",
+    "Remove Books",
+    "Save To Disk",
+    "Preferences",
+    "Help",
+    "Comments Cleaner",
+    "ePub Extended Metadata",
+    "Quality Check",
+    "Check Books",
+    "Library Codes"
+  ],
+  "action-layout-toolbar-device": [
+    "Add Books",
+    "Edit Metadata",
+    "Convert Books",
+    "Polish Books",
+    "Remove Books",
+    "Send To Device",
+    "Location Manager",
+    "Save To Disk",
+    "Preferences",
+    "Help",
+    "Kindle Collections",
+    "Comments Cleaner",
+    "ePub Extended Metadata",
+    "Quality Check",
+    "Check Books",
+    "Library Codes"
+  ],
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAADAAAA9QAAAa4AAAEKAf////8BAAAAAQA="
+  },
+  "book_details_splitter_horizontal_state": [
+    true,
+    200
+  ],
+  "book_details_splitter_vertical_state": [
+    true,
+    120
+  ],
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "bulk-mde-casing-algorithm": "title_case",
+  "bulk_metadata_window_tab": 0,
+  "cover_browser_splitter_horizontal_state": [
+    false,
+    550
+  ],
+  "cover_browser_splitter_vertical_state": [
+    false,
+    300
+  ],
+  "cover_grid_color": [
+    80,
+    80,
+    80
+  ],
+  "cover_grid_texture": null,
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "default_author_link": null,
+  "dnd_merge": false,
+  "font": [
+    "Roboto",
+    12,
+    400,
+    false
+  ],
+  "font_stretch": 0,
+  "geometry-of-Plugin Updater plugin:plugin updater dialog": {
+    "frame_geometry": {
+      "height": 624,
+      "width": 1289,
+      "x": 263,
+      "y": 193
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 624,
+      "width": 1289,
+      "x": 263,
+      "y": 193
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 624,
+      "width": 1289,
+      "x": 263,
+      "y": 193
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAEHAAAAwQAABg8AAAMwAAABBwAAAMEAAAYPAAADMAAAAAAAAAAABqYAAAEHAAAAwQAABg8AAAMw"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-bulk_metadata_window_geometry": {
+    "frame_geometry": {
+      "height": 878,
+      "width": 1632,
+      "x": 27,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 878,
+      "width": 1632,
+      "x": 27,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 878,
+      "width": 1632,
+      "x": 27,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAbAAAAAAAABnoAAANtAAAAGwAAAAAAAAZ6AAADbQAAAAAAAAAABqYAAAAbAAAAAAAABnoAAANt"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 878,
+      "width": 1706,
+      "x": 0,
+      "y": 41
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 878,
+      "width": 1706,
+      "x": 0,
+      "y": 41
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 878,
+      "width": 1706,
+      "x": 0,
+      "y": 41
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAKQAABqkAAAOWAAAAAAAAACkAAAapAAADlgAAAAACAAAABqYAAAAAAAAAKQAABqkAAAOW"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-choose-icon-theme-dialog-geometry": {
+    "frame_geometry": {
+      "height": 878,
+      "width": 900,
+      "x": 383,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 878,
+      "width": 900,
+      "x": 383,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 878,
+      "width": 900,
+      "x": 383,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAF/AAAAAAAABQIAAANtAAABfwAAAAAAAAUCAAADbQAAAAAAAAAABqYAAAF/AAAAAAAABQIAAANt"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-config_widget_dialog_geometry_Sharing_Metadata download": {
+    "frame_geometry": {
+      "height": 646,
+      "width": 1285,
+      "x": 600,
+      "y": 131
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 646,
+      "width": 1285,
+      "x": 600,
+      "y": 131
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 646,
+      "width": 1285,
+      "x": 600,
+      "y": 131
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAJYAAAAgwAAB1wAAAMIAAACWAAAAIMAAAdcAAADCAAAAAAAAAAABqYAAAJYAAAAgwAAB1wAAAMI"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-convert_bulk_dialog_geom": {
+    "frame_geometry": {
+      "height": 860,
+      "width": 1632,
+      "x": 27,
+      "y": 10
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 860,
+      "width": 1632,
+      "x": 27,
+      "y": 10
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 860,
+      "width": 1632,
+      "x": 27,
+      "y": 10
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAbAAAACgAABnoAAANlAAAAGwAAAAoAAAZ6AAADZQAAAAAAAAAABqYAAAAbAAAACgAABnoAAANl"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-convert_single_dialog_geom": {
+    "frame_geometry": {
+      "height": 860,
+      "width": 1632,
+      "x": 27,
+      "y": 10
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 860,
+      "width": 1632,
+      "x": 27,
+      "y": 10
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 860,
+      "width": 1632,
+      "x": 27,
+      "y": 10
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAbAAAACgAABnoAAANlAAAAGwAAAAoAAAZ6AAADZQAAAAAAAAAABqYAAAAbAAAACgAABnoAAANl"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-diff_dialog_geom": {
+    "frame_geometry": {
+      "height": 446,
+      "width": 866,
+      "x": 410,
+      "y": 217
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 446,
+      "width": 866,
+      "x": 410,
+      "y": 217
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 446,
+      "width": 866,
+      "x": 410,
+      "y": 217
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAGaAAAA2QAABPsAAAKWAAABmgAAANkAAAT7AAAClgAAAAAAAAAABqYAAAGaAAAA2QAABPsAAAKW"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-duplicates-question-dialog-geometry": {
+    "frame_geometry": {
+      "height": 378,
+      "width": 542,
+      "x": 562,
+      "y": 212
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 378,
+      "width": 542,
+      "x": 562,
+      "y": 212
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 378,
+      "width": 542,
+      "x": 562,
+      "y": 212
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIyAAAA1AAABE8AAAJNAAACMgAAANQAAARPAAACTQAAAAAAAAAABqYAAAIyAAAA1AAABE8AAAJN"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-jobs_dialog_geometry": {
+    "frame_geometry": {
+      "height": 646,
+      "width": 1238,
+      "x": 651,
+      "y": 273
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 646,
+      "width": 1238,
+      "x": 651,
+      "y": 273
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 646,
+      "width": 1238,
+      "x": 651,
+      "y": 273
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAKLAAABEQAAB2AAAAOWAAACiwAAAREAAAdgAAADlgAAAAAAAAAABqYAAAKLAAABEQAAB2AAAAOW"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-metadata_single_gui_geom": {
+    "frame_geometry": {
+      "height": 600,
+      "width": 850,
+      "x": 408,
+      "y": 99
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 850,
+      "x": 408,
+      "y": 99
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 850,
+      "x": 408,
+      "y": 99
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAGYAAAAYwAABOkAAAK6AAABmAAAAGMAAATpAAACugAAAAAAAAAABqYAAAGYAAAAYwAABOkAAAK6"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-metasingle_window_geometry3": {
+    "frame_geometry": {
+      "height": 878,
+      "width": 1632,
+      "x": 27,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 878,
+      "width": 1632,
+      "x": 27,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 878,
+      "width": 1632,
+      "x": 27,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAbAAAAAAAABnoAAANtAAAAGwAAAAAAAAZ6AAADbQAAAAAAAAAABqYAAAAbAAAAAAAABnoAAANt"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-plugin config dialog:Device interface:Airis Dbook Device Interface": {
+    "frame_geometry": {
+      "height": 484,
+      "width": 629,
+      "x": 529,
+      "y": 199
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 484,
+      "width": 629,
+      "x": 529,
+      "y": 199
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 484,
+      "width": 629,
+      "x": 529,
+      "y": 199
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIRAAAAxwAABIUAAAKqAAACEQAAAMcAAASFAAACqgAAAAAAAAAABqYAAAIRAAAAxwAABIUAAAKq"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-plugin config dialog:User interface action:Comments Cleaner": {
+    "frame_geometry": {
+      "height": 861,
+      "width": 948,
+      "x": 370,
+      "y": 10
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 861,
+      "width": 948,
+      "x": 370,
+      "y": 10
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 861,
+      "width": 948,
+      "x": 370,
+      "y": 10
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFyAAAACgAABSUAAANmAAABcgAAAAoAAAUlAAADZgAAAAAAAAAABqYAAAFyAAAACgAABSUAAANm"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-plugin config dialog:User interface action:ePub Extended Metadata": {
+    "frame_geometry": {
+      "height": 460,
+      "width": 718,
+      "x": 484,
+      "y": 210
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 460,
+      "width": 718,
+      "x": 484,
+      "y": 210
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 460,
+      "width": 718,
+      "x": 484,
+      "y": 210
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHkAAAA0gAABLEAAAKdAAAB5AAAANIAAASxAAACnQAAAAAAAAAABqYAAAHkAAAA0gAABLEAAAKd"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-plugin-book-report-config-dialog-geometry": {
+    "frame_geometry": {
+      "height": 490,
+      "width": 393,
+      "x": 645,
+      "y": 195
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 490,
+      "width": 393,
+      "x": 645,
+      "y": 195
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 490,
+      "width": 393,
+      "x": 645,
+      "y": 195
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAKFAAAAwwAABA0AAAKsAAAChQAAAMMAAAQNAAACrAAAAAAAAAAABqYAAAKFAAAAwwAABA0AAAKs"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-preferences dialog geometry": {
+    "frame_geometry": {
+      "height": 678,
+      "width": 966,
+      "x": 378,
+      "y": 80
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 678,
+      "width": 966,
+      "x": 378,
+      "y": 80
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 678,
+      "width": 966,
+      "x": 378,
+      "y": 80
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAF6AAAAUAAABT8AAAL1AAABegAAAFAAAAU/AAAC9QAAAAAAAAAABqYAAAF6AAAAUAAABT8AAAL1"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "grid view visible": false,
+  "jobs view column layout3": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfQAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+  },
+  "library_codes:gui_parameters_dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAGbAAAAGQAABPoAAANpAAABmwAAABkAAAT6AAADaQAAAAAAAAAABqYAAAGbAAAAGQAABPoAAANp"
+  },
+  "library_usage_stats": {
+    "/home/dwallraff/library": 52
+  },
+  "metadata-download-identify-widget-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAACAAAAAQAA/////wEAAAABAA=="
+  },
+  "polish_show_reports": true,
+  "polishing_settings": {
+    "add_soft_hyphens": false,
+    "compress_images": false,
+    "do_cover": true,
+    "embed": true,
+    "jacket": true,
+    "metadata": true,
+    "remove_jacket": false,
+    "remove_soft_hyphens": false,
+    "remove_unused_css": true,
+    "smarten_punctuation": true,
+    "subset": true,
+    "upgrade_book": true
+  },
+  "previous_sort_order_BooksView": {
+    "authors": true,
+    "series": true,
+    "title": true
+  },
+  "quality check plugin:cover options dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAIjAAABMAAABHMAAAJAAAACIwAAATAAAARzAAACQAAAAAAAAAAABqYAAAIjAAABMAAABHMAAAJA"
+  },
+  "quality check plugin:cover options dialog:last_dimensions_check_type": "less than",
+  "quality check plugin:cover options dialog:last_height": 400,
+  "quality check plugin:cover options dialog:last_opt": 1,
+  "quality check plugin:cover options dialog:last_size": 20,
+  "quality check plugin:cover options dialog:last_size_check_type": "less than",
+  "quality check plugin:cover options dialog:last_width": 300,
+  "quick_start_guide_added": true,
+  "quickview visible": false,
+  "recently_used_languages": [
+    "English"
+  ],
+  "replace_scene_breaks_history": [
+    "",
+    "<hr />",
+    "∗ ∗ ∗",
+    "• • •",
+    "♦ ♦ ♦",
+    "† †",
+    "‡ ‡ ‡",
+    "∞ ∞ ∞",
+    "¤ ¤ ¤"
+  ],
+  "search bar visible": true,
+  "show_emblems": false,
+  "show_splash_screen": false,
+  "tag browser search box visible": false,
+  "tag_browser_splitter_horizontal_state": [
+    true,
+    200
+  ],
+  "tb_search_order": {
+    "0": 1,
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 0
+  }
+}

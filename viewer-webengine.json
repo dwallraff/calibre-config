@@ -1,0 +1,115 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 640,
+      "width": 568,
+      "x": 569,
+      "y": 160
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 640,
+      "width": 568,
+      "x": 569,
+      "y": 160
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 640,
+      "width": 568,
+      "x": 569,
+      "y": 160
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAI5AAAAoAAABHAAAAMfAAACOQAAAKAAAARwAAADHwAAAAAAAAAABqYAAAI5AAAAoAAABHAAAAMf"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAACOAAAAoAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "John Scalzi"
+        ],
+        "key": "/home/dwallraff/library/Scalzi, John/Redshirts_ A Novel With Three Codas (26248)/Redshirts_ A Novel With Three Codas - Scalzi, John.epub",
+        "pathtoebook": "/home/dwallraff/library/Scalzi, John/Redshirts_ A Novel With Three Codas (26248)/Redshirts_ A Novel With Three Codas - Scalzi, John.epub",
+        "timestamp": "2023-12-08T23:32:29.265Z",
+        "title": "Redshirts"
+      },
+      {
+        "authors": [
+          "Scalzi, John"
+        ],
+        "key": "/home/dwallraff/library/Scalzi, John/Old Man's War (26259)/Old Man's War - Scalzi, John.epub",
+        "pathtoebook": "/home/dwallraff/library/Scalzi, John/Old Man's War (26259)/Old Man's War - Scalzi, John.epub",
+        "timestamp": "2023-12-08T23:27:04.971Z",
+        "title": "Old Man's War"
+      },
+      {
+        "authors": [
+          "John Scalzi"
+        ],
+        "key": "/home/dwallraff/library/Scalzi, John/Old Man's War (20945)/Old Man's War - Scalzi, John.epub",
+        "pathtoebook": "/home/dwallraff/library/Scalzi, John/Old Man's War (20945)/Old Man's War - Scalzi, John.epub",
+        "timestamp": "2023-12-08T23:26:40.434Z",
+        "title": "Old Man's War"
+      },
+      {
+        "authors": [
+          "Scalzi, John"
+        ],
+        "key": "/home/dwallraff/library/Scalzi, John/The Ghost Brigades (26260)/The Ghost Brigades - Scalzi, John.epub",
+        "pathtoebook": "/home/dwallraff/library/Scalzi, John/The Ghost Brigades (26260)/The Ghost Brigades - Scalzi, John.epub",
+        "timestamp": "2023-12-08T23:17:38.735Z",
+        "title": "The Ghost Brigades"
+      },
+      {
+        "authors": [
+          "John Scalzi"
+        ],
+        "key": "/home/dwallraff/library/Scalzi, John/The Ghost Brigades (20944)/The Ghost Brigades - Scalzi, John.epub",
+        "pathtoebook": "/home/dwallraff/library/Scalzi, John/The Ghost Brigades (20944)/The Ghost Brigades - Scalzi, John.epub",
+        "timestamp": "2023-12-08T23:17:13.873Z",
+        "title": "The Ghost Brigades"
+      }
+    ]
+  }
+}

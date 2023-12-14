@@ -1,0 +1,83 @@
+{
+  "add books dialog dir": "/home/dwallraff/MyFiles/Downloads/scalzi",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "database location dialog": "/home/dwallraff/library",
+  "geometry-of-catalog_window_geom": {
+    "frame_geometry": {
+      "height": 878,
+      "width": 1632,
+      "x": 27,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 878,
+      "width": 1632,
+      "x": 27,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 878,
+      "width": 1632,
+      "x": 27,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAbAAAAAAAABnoAAANtAAAAGwAAAAAAAAZ6AAADbQAAAAAAAAAABqYAAAAbAAAAAAAABnoAAANt"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.1"
+    ]
+  },
+  "s_r_search_mode": 0,
+  "sort_history": [
+    [
+      "authors",
+      true
+    ],
+    [
+      "series",
+      true
+    ],
+    [
+      "authors",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kindle_pw",
+  "welcome_wizard_was_run": true
+}

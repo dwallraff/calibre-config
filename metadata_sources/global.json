@@ -1,0 +1,17 @@
+{
+  "cover_priorities": {
+    "Amazon.com": 2,
+    "Big Book Search": 6,
+    "Edelweiss": 5,
+    "Google": 4,
+    "Open Library": 3
+  },
+  "ignore_fields": [
+    "rating"
+  ],
+  "max_tags": 5,
+  "swap_author_names": true,
+  "txt_comments": true,
+  "wait_after_first_cover_result": 65,
+  "wait_after_first_identify_result": 65
+}
