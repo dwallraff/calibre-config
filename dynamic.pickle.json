@@ -56,7 +56,8 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "7.1"
+      "7.1",
+      "7.2"
     ]
   },
   "s_r_search_mode": 0,
@@ -70,7 +71,7 @@
       true
     ],
     [
-      "authors",
+      "title",
       true
     ],
     [

@@ -50,7 +50,7 @@
     "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
   },
   "bulk-mde-casing-algorithm": "title_case",
-  "bulk_metadata_window_tab": 0,
+  "bulk_metadata_window_tab": 1,
   "cover_browser_splitter_horizontal_state": [
     false,
     550
@@ -65,6 +65,14 @@
     80
   ],
   "cover_grid_texture": null,
+  "custcol-prefs-table-geometry": [
+    73,
+    142,
+    130,
+    425,
+    115,
+    79
+  ],
   "custom_colors_for_color_dialog": [
     [
       255,
@@ -532,27 +540,27 @@
   "geometry-of-diff_dialog_geom": {
     "frame_geometry": {
       "height": 446,
-      "width": 866,
+      "width": 909,
       "x": 410,
       "y": 217
     },
     "full_screened": false,
     "geometry": {
       "height": 446,
-      "width": 866,
+      "width": 909,
       "x": 410,
       "y": 217
     },
     "maximized": false,
     "normal_geometry": {
       "height": 446,
-      "width": 866,
+      "width": 909,
       "x": 410,
       "y": 217
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAGaAAAA2QAABPsAAAKWAAABmgAAANkAAAT7AAAClgAAAAAAAAAABqYAAAGaAAAA2QAABPsAAAKW"
+      "__value__": "AdnQywADAAAAAAGaAAAA2QAABSYAAAKWAAABmgAAANkAAAUmAAAClgAAAAAAAAAABqYAAAGaAAAA2QAABSYAAAKW"
     },
     "screen": {
       "depth": 24,
@@ -604,6 +612,108 @@
     "qt": {
       "__class__": "bytearray",
       "__value__": "AdnQywADAAAAAAIyAAAA1AAABE8AAAJNAAACMgAAANQAAARPAAACTQAAAAAAAAAABqYAAAIyAAAA1AAABE8AAAJN"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-edit-author-mapping-rule-geometry": {
+    "frame_geometry": {
+      "height": 170,
+      "width": 881,
+      "x": 401,
+      "y": 355
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 170,
+      "width": 881,
+      "x": 401,
+      "y": 355
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 170,
+      "width": 881,
+      "x": 401,
+      "y": 355
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAGRAAABYwAABQEAAAIMAAABkQAAAWMAAAUBAAACDAAAAAAAAAAABqYAAAGRAAABYwAABQEAAAIM"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-edit-author-mapping-rules-geometry": {
+    "frame_geometry": {
+      "height": 388,
+      "width": 922,
+      "x": 770,
+      "y": 220
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 388,
+      "width": 922,
+      "x": 770,
+      "y": 220
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 388,
+      "width": 922,
+      "x": 770,
+      "y": 220
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAMCAAAA3AAABpsAAAJfAAADAgAAANwAAAabAAACXwAAAAAAAAAABqYAAAMCAAAA3AAABpsAAAJf"
     },
     "screen": {
       "depth": 24,
@@ -1049,7 +1159,7 @@
     "__value__": "AdnQywADAAAAAAGbAAAAGQAABPoAAANpAAABmwAAABkAAAT6AAADaQAAAAAAAAAABqYAAAGbAAAAGQAABPoAAANp"
   },
   "library_usage_stats": {
-    "/home/dwallraff/library": 52
+    "/home/dwallraff/library": 72
   },
   "metadata-download-identify-widget-splitter-state": {
     "__class__": "bytearray",
