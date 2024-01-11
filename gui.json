@@ -49,6 +49,10 @@
     "__class__": "bytearray",
     "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
   },
+  "browse-notes-dialog-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAB9AAAAZAA/////wEAAAABAA=="
+  },
   "bulk-mde-casing-algorithm": "title_case",
   "bulk_metadata_window_tab": 1,
   "cover_browser_splitter_horizontal_state": [
@@ -231,6 +235,57 @@
       }
     }
   },
+  "geometry-of-browse-notes-dialog-geometry": {
+    "frame_geometry": {
+      "height": 600,
+      "width": 900,
+      "x": 391,
+      "y": 140
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 900,
+      "x": 391,
+      "y": 140
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 900,
+      "x": 391,
+      "y": 140
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAGHAAAAjAAABQoAAALjAAABhwAAAIwAAAUKAAAC4wAAAAAAAAAABqYAAAGHAAAAjAAABQoAAALj"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-bulk_metadata_window_geometry": {
     "frame_geometry": {
       "height": 878,
@@ -284,8 +339,8 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 878,
-      "width": 1706,
+      "height": 910,
+      "width": 1705,
       "x": 0,
       "y": 41
     },
@@ -305,7 +360,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAKQAABqkAAAOWAAAAAAAAACkAAAapAAADlgAAAAACAAAABqYAAAAAAAAAKQAABqkAAAOW"
+      "__value__": "AdnQywADAAAAAAAAAAAAKQAABqgAAAO2AAAAAAAAACkAAAapAAADlgAAAAACAAAABqYAAAAAAAAAKQAABqkAAAOW"
     },
     "screen": {
       "depth": 24,
@@ -1159,7 +1214,7 @@
     "__value__": "AdnQywADAAAAAAGbAAAAGQAABPoAAANpAAABmwAAABkAAAT6AAADaQAAAAAAAAAABqYAAAGbAAAAGQAABPoAAANp"
   },
   "library_usage_stats": {
-    "/home/dwallraff/library": 72
+    "/home/dwallraff/library": 74
   },
   "metadata-download-identify-widget-splitter-state": {
     "__class__": "bytearray",
