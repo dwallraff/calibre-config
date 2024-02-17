@@ -10,10 +10,7 @@
     "Preferences",
     "Help",
     "Comments Cleaner",
-    "ePub Extended Metadata",
-    "Quality Check",
-    "Check Books",
-    "Library Codes"
+    "Quality Check"
   ],
   "action-layout-toolbar-device": [
     "Add Books",
@@ -28,10 +25,7 @@
     "Help",
     "Kindle Collections",
     "Comments Cleaner",
-    "ePub Extended Metadata",
-    "Quality Check",
-    "Check Books",
-    "Library Codes"
+    "Quality Check"
   ],
   "basic_metadata_widget_splitter_state": {
     "__class__": "bytearray",
@@ -54,7 +48,7 @@
     "__value__": "AAAA/wAAAAEAAAACAAAB9AAAAZAA/////wEAAAABAA=="
   },
   "bulk-mde-casing-algorithm": "title_case",
-  "bulk_metadata_window_tab": 1,
+  "bulk_metadata_window_tab": 0,
   "cover_browser_splitter_horizontal_state": [
     false,
     550
@@ -339,8 +333,8 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 910,
-      "width": 1705,
+      "height": 878,
+      "width": 1706,
       "x": 0,
       "y": 41
     },
@@ -360,7 +354,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAKQAABqgAAAO2AAAAAAAAACkAAAapAAADlgAAAAACAAAABqYAAAAAAAAAKQAABqkAAAOW"
+      "__value__": "AdnQywADAAAAAAAAAAAAKQAABqkAAAOWAAAAAAAAACkAAAapAAADlgAAAAACAAAABqYAAAAAAAAAKQAABqkAAAOW"
     },
     "screen": {
       "depth": 24,
@@ -1000,6 +994,57 @@
       }
     }
   },
+  "geometry-of-plugin config dialog:File type:DeACSM": {
+    "frame_geometry": {
+      "height": 502,
+      "width": 400,
+      "x": 643,
+      "y": 189
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 502,
+      "width": 400,
+      "x": 643,
+      "y": 189
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 502,
+      "width": 400,
+      "x": 643,
+      "y": 189
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAKDAAAAvQAABBIAAAKyAAACgwAAAL0AAAQSAAACsgAAAAAAAAAABqYAAAKDAAAAvQAABBIAAAKy"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.25,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "XWAYLAND0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1702
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1702,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-plugin config dialog:User interface action:Comments Cleaner": {
     "frame_geometry": {
       "height": 861,
@@ -1214,7 +1259,36 @@
     "__value__": "AdnQywADAAAAAAGbAAAAGQAABPoAAANpAAABmwAAABkAAAT6AAADaQAAAAAAAAAABqYAAAGbAAAAGQAABPoAAANp"
   },
   "library_usage_stats": {
-    "/home/dwallraff/library": 74
+    "/home/dwallraff/library": 94
+  },
+  "main_window_central_widget_state": {
+    "layout": "wide",
+    "narrow_desires": {
+      "book_details_height": 0.12658227848101267,
+      "cover_browser_width": 0.3223915592028136,
+      "quick_view_height": 0.2911392405063291,
+      "tag_browser_width": 0.24970691676436108
+    },
+    "narrow_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    },
+    "wide_desires": {
+      "book_details_width": 0.11723329425556858,
+      "cover_browser_height": 0.26595744680851063,
+      "quick_view_height": 0.24468085106382978,
+      "tag_browser_width": 0.11723329425556858
+    },
+    "wide_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    }
   },
   "metadata-download-identify-widget-splitter-state": {
     "__class__": "bytearray",

@@ -52,7 +52,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAACOAAAAoAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAJEA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAApQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACTAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAQkA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAOUA////AAACOAAAAoAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -65,6 +65,52 @@
       "singleinstance": false
     },
     "standalone_recently_opened": [
+      {
+        "authors": [
+          "Sergeĭ Lukʹi︠a︡nenko",
+          "Владимир Николаевич Васильев"
+        ],
+        "key": "/home/dwallraff/library/Luk'ianienko, Sierghiei/Dnievnoi dozor (25030)/Dnievnoi dozor - Luk'ianienko, Sierghiei.epub",
+        "pathtoebook": "/home/dwallraff/library/Luk'ianienko, Sierghiei/Dnievnoi dozor (25030)/Dnievnoi dozor - Luk'ianienko, Sierghiei.epub",
+        "timestamp": "2024-01-28T20:51:59.301Z",
+        "title": "Дневной Дозор"
+      },
+      {
+        "authors": [
+          "J. F. Penn"
+        ],
+        "key": "/home/dwallraff/library/Penn, J. F_/Desecration-Verletzung_ London Mysteries (25899)/Desecration-Verletzung_ London Mysteries - Penn, J. F_.epub",
+        "pathtoebook": "/home/dwallraff/library/Penn, J. F_/Desecration-Verletzung_ London Mysteries (25899)/Desecration-Verletzung_ London Mysteries - Penn, J. F_.epub",
+        "timestamp": "2024-01-28T20:51:03.254Z",
+        "title": "Desecration: London Psychic Book 1"
+      },
+      {
+        "authors": [
+          "Burke, Declan"
+        ],
+        "key": "/home/dwallraff/library/Burke, Declan/Eight Ball Boogie (21838)/Eight Ball Boogie - Burke, Declan.epub",
+        "pathtoebook": "/home/dwallraff/library/Burke, Declan/Eight Ball Boogie (21838)/Eight Ball Boogie - Burke, Declan.epub",
+        "timestamp": "2024-01-28T20:50:42.110Z",
+        "title": "Eight Ball Boogie"
+      },
+      {
+        "authors": [
+          "Fforde, Jasper"
+        ],
+        "key": "/home/dwallraff/library/Fforde, Jasper/Festival et concours suisse de l'orgue 2000_ Porrentruy et Saint-Ursanne, du 25 octobre au 4 n (21817)/Festival et concours suisse de l'orgue 200 - Fforde, Jasper.epub",
+        "pathtoebook": "/home/dwallraff/library/Fforde, Jasper/Festival et concours suisse de l'orgue 2000_ Porrentruy et Saint-Ursanne, du 25 octobre au 4 n (21817)/Festival et concours suisse de l'orgue 200 - Fforde, Jasper.epub",
+        "timestamp": "2024-01-28T20:49:40.432Z",
+        "title": "One of Our Thursdays Is Missing"
+      },
+      {
+        "authors": [
+          "Cherrie Lynn"
+        ],
+        "key": "/home/dwallraff/library/Lynn, Cherrie/Leave Me Breathless (19485)/Leave Me Breathless - Lynn, Cherrie.epub",
+        "pathtoebook": "/home/dwallraff/library/Lynn, Cherrie/Leave Me Breathless (19485)/Leave Me Breathless - Lynn, Cherrie.epub",
+        "timestamp": "2024-01-28T20:48:01.555Z",
+        "title": "Leave Me Breathless"
+      },
       {
         "authors": [
           "John Scalzi"

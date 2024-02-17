@@ -1,6 +1,8 @@
 {
-  "add books dialog dir": "/home/dwallraff/MyFiles/Downloads/scalzi",
+  "add a plugin dialog": "/home/dwallraff/MyFiles/Downloads",
+  "add books dialog dir": "/home/dwallraff/MyFiles/Downloads",
   "add books dialog dir-last-used-filter-spec-all-files": false,
+  "choose library location": "/home/dwallraff/library",
   "database location dialog": "/home/dwallraff/library",
   "geometry-of-catalog_window_geom": {
     "frame_geometry": {
@@ -57,6 +59,7 @@
     "__class__": "set",
     "__value__": [
       "7.1",
+      "7.4",
       "7.3",
       "7.2"
     ]
@@ -72,7 +75,7 @@
       true
     ],
     [
-      "title",
+      "authors",
       true
     ],
     [
