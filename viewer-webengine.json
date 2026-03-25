@@ -2,49 +2,49 @@
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
       "height": 640,
-      "width": 568,
-      "x": 569,
-      "y": 160
+      "width": 480,
+      "x": 0,
+      "y": 0
     },
     "full_screened": false,
     "geometry": {
       "height": 640,
-      "width": 568,
-      "x": 569,
-      "y": 160
+      "width": 480,
+      "x": 0,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 640,
-      "width": 568,
-      "x": 569,
-      "y": 160
+      "width": 480,
+      "x": 0,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAI5AAAAoAAABHAAAAMfAAACOQAAAKAAAARwAAADHwAAAAAAAAAABqYAAAI5AAAAoAAABHAAAAMf"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAd8AAAJ/AAAAAAAAAAAAAAHfAAACfwAAAAAAAAAABaAAAAAAAAAAAAAAAd8AAAJ/"
     },
     "screen": {
-      "depth": 24,
-      "device_pixel_ratio": 1.25,
+      "depth": 32,
+      "device_pixel_ratio": 2.0,
       "geometry_in_logical_pixels": {
         "height": 960,
-        "width": 1702,
+        "width": 1440,
         "x": 0,
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "",
-      "model": "",
-      "name": "XWAYLAND0",
+      "manufacturer": "BOE",
+      "model": "NE135A1M-NY1",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 960,
-        "width": 1702
+        "width": 1440
       },
       "virtual_geometry": {
         "height": 960,
-        "width": 1702,
+        "width": 1440,
         "x": 0,
         "y": 0
       }
@@ -52,7 +52,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAJEA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAApQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACTAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAQkA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAOUA////AAACOAAAAoAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIwA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAnQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACmAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPgA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFQD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANsA////AAAB4AAAAoAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -65,6 +65,179 @@
       "singleinstance": false
     },
     "standalone_recently_opened": [
+      {
+        "authors": [
+          "Abbott, Edwin A."
+        ],
+        "key": "/home/dwallraff/library/Abbott, Edwin A_/Flatland (9669)/Flatland - Abbott, Edwin A_.epub",
+        "pathtoebook": "/home/dwallraff/library/Abbott, Edwin A_/Flatland (9669)/Flatland - Abbott, Edwin A_.epub",
+        "timestamp": "2026-02-16T18:26:37.539Z",
+        "title": "Flatland"
+      },
+      {
+        "authors": [
+          "Abbey, Lynn"
+        ],
+        "key": "/home/dwallraff/library/Abbey, Lynn/The Brazen Gambit (9674)/The Brazen Gambit - Abbey, Lynn.epub",
+        "pathtoebook": "/home/dwallraff/library/Abbey, Lynn/The Brazen Gambit (9674)/The Brazen Gambit - Abbey, Lynn.epub",
+        "timestamp": "2026-02-10T15:17:52.673Z",
+        "title": "The Brazen Gambit"
+      },
+      {
+        "authors": [
+          "AAVV"
+        ],
+        "key": "/home/dwallraff/library/AAVV/Freetaly (9714)/Freetaly - AAVV.epub",
+        "pathtoebook": "/home/dwallraff/library/AAVV/Freetaly (9714)/Freetaly - AAVV.epub",
+        "timestamp": "2026-02-10T15:02:58.311Z",
+        "title": "Freetaly"
+      },
+      {
+        "authors": [
+          "Aaron, Rachel"
+        ],
+        "key": "/home/dwallraff/library/Aaron, Rachel/The Spirit Thief (9671)/The Spirit Thief - Aaron, Rachel.epub",
+        "pathtoebook": "/home/dwallraff/library/Aaron, Rachel/The Spirit Thief (9671)/The Spirit Thief - Aaron, Rachel.epub",
+        "timestamp": "2026-02-09T17:01:40.031Z",
+        "title": "The Spirit Thief"
+      },
+      {
+        "authors": [
+          "Aaron, Rachel"
+        ],
+        "key": "/home/dwallraff/library/Aaron, Rachel/The Spirit Rebellion (9673)/The Spirit Rebellion - Aaron, Rachel.epub",
+        "pathtoebook": "/home/dwallraff/library/Aaron, Rachel/The Spirit Rebellion (9673)/The Spirit Rebellion - Aaron, Rachel.epub",
+        "timestamp": "2026-02-09T17:01:19.690Z",
+        "title": "The Spirit Rebellion"
+      },
+      {
+        "authors": [
+          "Doyle, Arthur Conan"
+        ],
+        "key": "/home/dwallraff/library/(sir), Arthur Conan Doyle/Sherlock Holmes_ The Complete Illustrated Novels (9678)/Sherlock Holmes_ The Complete Illustrated - (sir), Arthur Conan Doyle.epub",
+        "pathtoebook": "/home/dwallraff/library/(sir), Arthur Conan Doyle/Sherlock Holmes_ The Complete Illustrated Novels (9678)/Sherlock Holmes_ The Complete Illustrated - (sir), Arthur Conan Doyle.epub",
+        "timestamp": "2026-02-09T16:57:46.087Z",
+        "title": "Sherlock Holmes Omnibus"
+      },
+      {
+        "authors": [
+          "Jeffrey Lord (pseud.)"
+        ],
+        "key": "/home/dwallraff/library/(pseud.), Jeffrey Lord/The Jade Warrior (397)/The Jade Warrior - (pseud.), Jeffrey Lord.epub",
+        "pathtoebook": "/home/dwallraff/library/(pseud.), Jeffrey Lord/The Jade Warrior (397)/The Jade Warrior - (pseud.), Jeffrey Lord.epub",
+        "timestamp": "2026-02-09T16:52:24.322Z",
+        "title": "The Jade Warrior"
+      },
+      {
+        "authors": [
+          "Ice-t (musician)",
+          "Douglas Century"
+        ],
+        "key": "/home/dwallraff/library/(musician), Ice-t/Ice_ A Memoir of Gangster Life and Redemption _ From South Central to Hollywood (9677)/Ice_ A Memoir of Gangster Life and Redempt - (musician), Ice-t.epub",
+        "pathtoebook": "/home/dwallraff/library/(musician), Ice-t/Ice_ A Memoir of Gangster Life and Redemption _ From South Central to Hollywood (9677)/Ice_ A Memoir of Gangster Life and Redempt - (musician), Ice-t.epub",
+        "timestamp": "2026-02-09T16:50:32.180Z",
+        "title": "Ice: A Memoir of Gangster Life and Redemption : From South Central to Hollywood"
+      },
+      {
+        "authors": [
+          "Calabrese, Frank"
+        ],
+        "key": "/home/dwallraff/library/(jr.), Frank Calabrese/Operation Family Secrets_ How a Mobster's Son and the FBI Brought Down Chicago's Murderous Crim (395)/Operation Family Secrets_ How a Mobster's - (jr.), Frank Calabrese.epub",
+        "pathtoebook": "/home/dwallraff/library/(jr.), Frank Calabrese/Operation Family Secrets_ How a Mobster's Son and the FBI Brought Down Chicago's Murderous Crim (395)/Operation Family Secrets_ How a Mobster's - (jr.), Frank Calabrese.epub",
+        "timestamp": "2026-02-09T16:28:07.981Z",
+        "title": "Operation Family Secrets"
+      },
+      {
+        "authors": [
+          "Eben Weiss",
+          "BikeSnobNYC"
+        ],
+        "key": "/home/dwallraff/library/Weiss, Eben/Bike Snob (764)/Bike Snob - Weiss, Eben.epub",
+        "pathtoebook": "/home/dwallraff/library/Weiss, Eben/Bike Snob (764)/Bike Snob - Weiss, Eben.epub",
+        "timestamp": "2026-02-09T16:27:01.390Z",
+        "title": "Bike Snob: Systematically & Mercilessly Realigning the World of Cycling"
+      },
+      {
+        "authors": [
+          "Dean Wesley Smith"
+        ],
+        "key": "/home/dwallraff/library/(author), Smith Dean Wesley/Billion Earths_ A Seeders Universe Collection (1762)/Billion Earths_ A Seeders Universe Collect - (author), Smith Dean Wesley.epub",
+        "pathtoebook": "/home/dwallraff/library/(author), Smith Dean Wesley/Billion Earths_ A Seeders Universe Collection (1762)/Billion Earths_ A Seeders Universe Collect - (author), Smith Dean Wesley.epub",
+        "timestamp": "2026-02-09T16:23:33.171Z",
+        "title": "A Billion Earths: A Seeders Universe Collection"
+      },
+      {
+        "authors": [
+          "English, Charlotte E."
+        ],
+        "key": "/home/dwallraff/library/English, Charlotte E_/The Draykon Series Omnibus (6910)/The Draykon Series Omnibus - English, Charlotte E_.epub",
+        "pathtoebook": "/home/dwallraff/library/English, Charlotte E_/The Draykon Series Omnibus (6910)/The Draykon Series Omnibus - English, Charlotte E_.epub",
+        "timestamp": "2026-02-08T23:53:16.659Z",
+        "title": "Draykon"
+      },
+      {
+        "authors": [
+          "Will Wight"
+        ],
+        "key": "/home/dwallraff/library/Will Wight/The Engineer (The Last Horizon Book 2) (649)/The Engineer (The Last Horizon Book 2) - Will Wight.epub",
+        "pathtoebook": "/home/dwallraff/library/Will Wight/The Engineer (The Last Horizon Book 2) (649)/The Engineer (The Last Horizon Book 2) - Will Wight.epub",
+        "timestamp": "2025-09-29T16:56:46.405Z",
+        "title": "The Engineer (The Last Horizon Book 2)"
+      },
+      {
+        "authors": [
+          "Malcolm Gladwell"
+        ],
+        "key": "/home/dwallraff/library/Gladwell, Malcolm/Outliers (Fuera de serie)_Outliers_ The Story of Success_ Por que unas personas tienen exito y (6277)/Outliers (Fuera de serie)_Outliers_ The St - Gladwell, Malcolm.epub",
+        "pathtoebook": "/home/dwallraff/library/Gladwell, Malcolm/Outliers (Fuera de serie)_Outliers_ The Story of Success_ Por que unas personas tienen exito y (6277)/Outliers (Fuera de serie)_Outliers_ The St - Gladwell, Malcolm.epub",
+        "timestamp": "2025-09-18T20:24:42.856Z",
+        "title": "Outliers"
+      },
+      {
+        "authors": [
+          "Dantec, Maurice G."
+        ],
+        "key": "/home/dwallraff/library/Dantec, Maurice G_/Grand Junction (7455)/Grand Junction - Dantec, Maurice G_.epub",
+        "pathtoebook": "/home/dwallraff/library/Dantec, Maurice G_/Grand Junction (7455)/Grand Junction - Dantec, Maurice G_.epub",
+        "timestamp": "2025-09-18T20:24:33.635Z",
+        "title": "Grand Junction"
+      },
+      {
+        "authors": [
+          "Coelho, Paulo"
+        ],
+        "key": "/home/dwallraff/library/Coelho, Paulo/Maktub (7887)/Maktub - Coelho, Paulo.epub",
+        "pathtoebook": "/home/dwallraff/library/Coelho, Paulo/Maktub (7887)/Maktub - Coelho, Paulo.epub",
+        "timestamp": "2025-09-18T20:24:24.301Z",
+        "title": "Maktub"
+      },
+      {
+        "authors": [
+          "Heather Gudenkauf"
+        ],
+        "key": "/home/dwallraff/library/Gudenkauf, Heather/The Weight of Silence - Nada-nada Sunyi (6020)/The Weight of Silence - Nada-nada Sunyi - Gudenkauf, Heather.epub",
+        "pathtoebook": "/home/dwallraff/library/Gudenkauf, Heather/The Weight of Silence - Nada-nada Sunyi (6020)/The Weight of Silence - Nada-nada Sunyi - Gudenkauf, Heather.epub",
+        "timestamp": "2025-09-18T20:23:45.839Z",
+        "title": "The Weight of Silence - Nada-nada Sunyi"
+      },
+      {
+        "authors": [
+          "Chopra, Deepak"
+        ],
+        "key": "/home/dwallraff/library/Deepak Chopra, M. D_/Buddha - Sebuah Novel (7355)/Buddha - Sebuah Novel - Deepak Chopra, M. D_.epub",
+        "pathtoebook": "/home/dwallraff/library/Deepak Chopra, M. D_/Buddha - Sebuah Novel (7355)/Buddha - Sebuah Novel - Deepak Chopra, M. D_.epub",
+        "timestamp": "2025-09-18T20:23:34.457Z",
+        "title": "Buddha"
+      },
+      {
+        "authors": [
+          "Coelho, Paulo"
+        ],
+        "key": "/home/dwallraff/library/Coelho, Paulo/Sang Penyihir dari Portobello (The Witch of Portobello) (7883)/Sang Penyihir dari Portobello (The Witch o - Coelho, Paulo.epub",
+        "pathtoebook": "/home/dwallraff/library/Coelho, Paulo/Sang Penyihir dari Portobello (The Witch of Portobello) (7883)/Sang Penyihir dari Portobello (The Witch o - Coelho, Paulo.epub",
+        "timestamp": "2025-09-18T20:23:22.273Z",
+        "title": "The Witch of Portobello"
+      },
       {
         "authors": [
           "Sergeĭ Lukʹi︠a︡nenko",
@@ -119,42 +292,6 @@
         "pathtoebook": "/home/dwallraff/library/Scalzi, John/Redshirts_ A Novel With Three Codas (26248)/Redshirts_ A Novel With Three Codas - Scalzi, John.epub",
         "timestamp": "2023-12-08T23:32:29.265Z",
         "title": "Redshirts"
-      },
-      {
-        "authors": [
-          "Scalzi, John"
-        ],
-        "key": "/home/dwallraff/library/Scalzi, John/Old Man's War (26259)/Old Man's War - Scalzi, John.epub",
-        "pathtoebook": "/home/dwallraff/library/Scalzi, John/Old Man's War (26259)/Old Man's War - Scalzi, John.epub",
-        "timestamp": "2023-12-08T23:27:04.971Z",
-        "title": "Old Man's War"
-      },
-      {
-        "authors": [
-          "John Scalzi"
-        ],
-        "key": "/home/dwallraff/library/Scalzi, John/Old Man's War (20945)/Old Man's War - Scalzi, John.epub",
-        "pathtoebook": "/home/dwallraff/library/Scalzi, John/Old Man's War (20945)/Old Man's War - Scalzi, John.epub",
-        "timestamp": "2023-12-08T23:26:40.434Z",
-        "title": "Old Man's War"
-      },
-      {
-        "authors": [
-          "Scalzi, John"
-        ],
-        "key": "/home/dwallraff/library/Scalzi, John/The Ghost Brigades (26260)/The Ghost Brigades - Scalzi, John.epub",
-        "pathtoebook": "/home/dwallraff/library/Scalzi, John/The Ghost Brigades (26260)/The Ghost Brigades - Scalzi, John.epub",
-        "timestamp": "2023-12-08T23:17:38.735Z",
-        "title": "The Ghost Brigades"
-      },
-      {
-        "authors": [
-          "John Scalzi"
-        ],
-        "key": "/home/dwallraff/library/Scalzi, John/The Ghost Brigades (20944)/The Ghost Brigades - Scalzi, John.epub",
-        "pathtoebook": "/home/dwallraff/library/Scalzi, John/The Ghost Brigades (20944)/The Ghost Brigades - Scalzi, John.epub",
-        "timestamp": "2023-12-08T23:17:13.873Z",
-        "title": "The Ghost Brigades"
       }
     ]
   }

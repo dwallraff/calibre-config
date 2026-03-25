@@ -2,25 +2,25 @@
   "disabled_plugins": {
     "__class__": "set",
     "__value__": [
-      "ePub Extended Metadata {Writer}",
-      "ePub Extended Metadata {Reader}"
+      "ePub Extended Metadata {Reader}",
+      "ePub Extended Metadata {Writer}"
     ]
   },
   "enabled_plugins": {
     "__class__": "set",
     "__value__": [
       "Google Images",
-      "Big Book Search",
-      "Edelweiss"
+      "Edelweiss",
+      "Big Book Search"
     ]
   },
   "filetype_mapping": {},
   "plugin_customization": {},
   "plugins": {
-    "Comments Cleaner": "/home/dwallraff/code/calibre-config/plugins/Comments Cleaner.zip",
+    "Comments Cleaner": "/home/dwallraff/.var/app/com.calibre_ebook.calibre/config/calibre/plugins/Comments Cleaner.zip",
     "DeACSM": "/home/dwallraff/code/calibre-config/plugins/DeACSM.zip",
     "Kindle Collections": "/home/dwallraff/.config/calibre/plugins/Kindle Collections.zip",
-    "Kindle hi-res covers": "/home/dwallraff/.config/calibre/plugins/Kindle hi-res covers.zip",
-    "Quality Check": "/home/dwallraff/code/calibre-config/plugins/Quality Check.zip"
+    "Kindle hi-res covers": "/home/dwallraff/.var/app/com.calibre_ebook.calibre/config/calibre/plugins/Kindle hi-res covers.zip",
+    "Quality Check": "/home/dwallraff/.var/app/com.calibre_ebook.calibre/config/calibre/plugins/Quality Check.zip"
   }
 }

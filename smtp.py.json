@@ -2,13 +2,13 @@
   "accounts": {
     "dave.wallraff@kindle.com": [
       "EPUB, TPZ",
-      true,
+      false,
       true
     ]
   },
   "aliases": {},
   "encryption": "TLS",
-  "from_": "library@davewallraff.com",
+  "from_": "library@dwallraff.com",
   "relay_host": null,
   "relay_password": "",
   "relay_port": 25,

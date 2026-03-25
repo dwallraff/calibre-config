@@ -1,0 +1,13 @@
+{
+  "options": {
+    "authorInitialsMode": "A.B.",
+    "hiddenMenus": [],
+    "maxTagExclusions": [
+      "needs_work"
+    ],
+    "maxTags": 0,
+    "searchHistoryLength": 10,
+    "searchScope": "Library",
+    "suppressFixDialog": true
+  }
+}
